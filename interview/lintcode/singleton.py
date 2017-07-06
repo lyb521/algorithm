@@ -3,6 +3,7 @@
 # @User: leiyongbo <lyb19900227@126.com>
 # @Date: 2017/5/25
 # @Time: 15:08
+# @url: http://www.lintcode.com/zh-cn/problem/singleton/
 # @Description:单例模式
 
 class Singleton(object):

@@ -25,5 +25,7 @@ class Solution:
                     return [numbers.index(i) + 1,numbers.index(j, numbers.index(i)+1) + 1]
         return False
 
-s = Solution()
-print  s.twoSum([2,7,11,15], 9)
+
+if __name__ == '__main__':
+    s = Solution()
+    print  s.twoSum([2,7,11,15], 9)

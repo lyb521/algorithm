@@ -24,4 +24,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  s.singleNumber([1,2,2,1,3,4,3])
+    print (s.singleNumber([1,2,2,1,3,4,3]))

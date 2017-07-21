@@ -18,4 +18,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  s.isUnique("abc")
+    print (s.isUnique("abc"))

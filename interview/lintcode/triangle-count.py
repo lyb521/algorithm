@@ -30,4 +30,4 @@ class Solution:
 
 if __name__ == '__main__':
     Solution = Solution()
-    print Solution.triangleCount([3,4,6,7])
+    print (Solution.triangleCount([3,4,6,7]))

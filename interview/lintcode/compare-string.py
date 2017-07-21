@@ -29,4 +29,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  s.compareStrings("ABCD", "ABC")
+    print (s.compareStrings("ABCD", "ABC"))

@@ -21,4 +21,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  s.isPalindrome("A man, a plan, a canal: Panama" )
+    print (s.isPalindrome("A man, a plan, a canal: Panama" ))

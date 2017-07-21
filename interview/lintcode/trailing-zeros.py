@@ -19,6 +19,6 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  s.trailingZeros(25)
+    print (s.trailingZeros(25))
     # 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 *2 * 1
     #

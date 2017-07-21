@@ -28,4 +28,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print  (s.reverseInteger(1534236469))
+    print ((s.reverseInteger(1534236469)))

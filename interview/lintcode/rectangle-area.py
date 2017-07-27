@@ -14,6 +14,8 @@ class Rectangle:
 
     def getArea(self):
         return self.width * self.height
+
+
 if __name__ == '__main__':
-    rec =  Rectangle(3, 4)
+    rec = Rectangle(3, 4)
     print (rec.getArea())

@@ -3,7 +3,7 @@
 # @User: leiyongbo <lyb19900227@126.com>
 # @Date: 2017/7/28
 # @Time: 17:24
-# @url: http://www.lintcode.com/zh-cn/problem/binary-tree-maximum-node/
+# @url: http://www.lintcode.com/zh-cn/problem/length-of-last-word/
 # @Description:给定一个字符串， 包含大小写字母、空格' '，请返回其最后一个单词的长度。如果不存在最后一个单词，请返回 0
 
 class Solution:

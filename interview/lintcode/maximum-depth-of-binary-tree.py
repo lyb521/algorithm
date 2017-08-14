@@ -21,13 +21,10 @@ class Solution:
     """
     def maxDepth(self, root):
         # write your code here
-        max_left = max_right = 0
         if not root:
             return 0
-        if root.left:
-            max_left = self.maxDepth(root.left)
-        if root.right:
-            max_right = self.maxDepth(root.right)
+        max_left = self.maxDepth(root.left)
+        max_right = self.maxDepth(root.right)
         if max_left > max_right:
             return max_left + 1
         else:

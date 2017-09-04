@@ -5,12 +5,11 @@
 # @Time: 09:59
 # @url: http://www.lintcode.com/zh-cn/problem/rectangle-area/
 # @Description:
-class Rectangle:
 
+class Rectangle:
     def __init__(self, width, height):
         self.width = width
         self.height = height
-
 
     def getArea(self):
         return self.width * self.height
